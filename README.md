@@ -57,3 +57,7 @@ MVPリリース
 一般的なCRUD以外の実装予定の機能についてそれぞれどのようなイメージ(使用するAPIや)で実装する予定なのか現状考えているもので良いので教えて下さい。
 Google Charts APIで、県ごとに色付けをしたい。
 Google Map APIで、場所の検索と登録ができるようにしたい。
+
+
+Figma
+https://www.figma.com/design/LrZsRngl4e6nX0flLQh0Eq/%E6%80%9D%E3%81%84%E5%87%BA%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&node-type=canvas&t=X69zP4rSaJTUTBHk-0
