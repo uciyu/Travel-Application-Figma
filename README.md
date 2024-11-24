@@ -52,6 +52,8 @@ MVPリリース
 他の人との共有機能
 県別で他の人が登録した場所の一覧表示（場所のみ）
 フレンド機能
+パスワードリセット機能
+メールアドレスリセット機能
 
 ■ 機能の実装方針予定
 一般的なCRUD以外の実装予定の機能についてそれぞれどのようなイメージ(使用するAPIや)で実装する予定なのか現状考えているもので良いので教えて下さい。
@@ -60,4 +62,4 @@ Google Map APIで、場所の検索と登録ができるようにしたい。
 
 
 Figma
-https://www.figma.com/design/LrZsRngl4e6nX0flLQh0Eq/%E6%80%9D%E3%81%84%E5%87%BA%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&node-type=canvas&t=CgT9yo65bI48ZY9D-0
+https://www.figma.com/design/LrZsRngl4e6nX0flLQh0Eq/%E6%80%9D%E3%81%84%E5%87%BA%E8%A8%98%E9%8C%B2%E3%82%A2%E3%83%97%E3%83%AA?node-id=0-1&node-type=canvas&t=NtetztQzgG0u8T90-0
